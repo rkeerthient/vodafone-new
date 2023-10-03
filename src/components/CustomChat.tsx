@@ -183,7 +183,7 @@ const CustomChat = () => {
                               );
                             })}
                           </div>
-                          <Map
+                          {/* <Map
                             mapLib={import("mapbox-gl")}
                             mapboxAccessToken="pk.eyJ1IjoibWRhdmlzaCIsImEiOiJja3pkNzZ4cDYydmF6MnZtemZrNXJxYmtvIn0.9CYfaiw9PB90VlQEqt3dRQ"
                             initialViewState={{
@@ -213,7 +213,7 @@ const CustomChat = () => {
                                 />
                               );
                             })}
-                          </Map>
+                          </Map> */}
                         </div>
                       </div>
                     );
