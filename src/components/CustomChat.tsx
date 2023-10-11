@@ -138,7 +138,7 @@ const CustomChat = () => {
                   }
                   case "locations": {
                     return (
-                      <div className="flex flex-col">
+                      <div className="  flex-col hidden">
                         <div className="font-semibold text-left mb-4">
                           Locations
                         </div>
